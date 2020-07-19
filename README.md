@@ -18,13 +18,37 @@
     <td align="center"><a href="#">え</a></td>
     <td align="center"><a href="#">お</a></td>
   </tr>
-     <tr>
-    <td align="center">k</td>
+  <tr>
+    <td align="center">K</td>
     <td align="center"><a href="#">か</a></td>
     <td align="center"><a href="#">き</a></td>
     <td align="center"><a href="#">く</a></td>
     <td align="center"><a href="#">け</a></td>
     <td align="center"><a href="#">こ</a></td>
+  </tr>
+  <tr>
+    <td align="center">S</td>
+    <td align="center"><a href="#">さ</a></td>
+    <td align="center"><a href="#">し</a></td>
+    <td align="center"><a href="#">す</a></td>
+    <td align="center"><a href="#">せ</a></td>
+    <td align="center"><a href="#">そ</a></td>
+  </tr>
+  <tr>
+    <td align="center">T</td>
+    <td align="center"><a href="#">た</a></td>
+    <td align="center"><a href="#">ち</a></td>
+    <td align="center"><a href="#">つ</a></td>
+    <td align="center"><a href="#">て</a></td>
+    <td align="center"><a href="#">と</a></td>
+  </tr>
+  <tr>
+    <td align="center">N</td>
+    <td align="center"><a href="#">な</a></td>
+    <td align="center"><a href="#">に</a></td>
+    <td align="center"><a href="#">ぬ</a></td>
+    <td align="center"><a href="#">ね</a></td>
+    <td align="center"><a href="#">の</a></td>
   </tr>
 </table>	  
 	  
