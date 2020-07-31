@@ -50,6 +50,22 @@
     <td align="center"><a href="#">ね</a></td>
     <td align="center"><a href="#">の</a></td>
   </tr>
+  <tr>
+    <td align="center">H</td>
+    <td align="center"><a href="#">は</a></td>
+    <td align="center"><a href="#">ひ</a></td>
+    <td align="center"><a href="#">ふ</a></td>
+    <td align="center"><a href="#">へ</a></td>
+    <td align="center"><a href="#">ほ</a></td>
+  </tr>
+  <tr>
+    <td align="center">H</td>
+    <td align="center"><a href="#">ま</a></td>
+    <td align="center"><a href="#">み</a></td>
+    <td align="center"><a href="#">む</a></td>
+    <td align="center"><a href="#">め</a></td>
+    <td align="center"><a href="#">も</a></td>
+  </tr>
 </table>	  
 	  
 | :----:|:----: | :----: |
