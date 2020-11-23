@@ -18,6 +18,14 @@
     <td align="center"><a href="#">え</a></td>
     <td align="center"><a href="#">お</a></td>
   </tr>
+     <tr>
+    <td align="center">k</td>
+    <td align="center"><a href="#">か</a></td>
+    <td align="center"><a href="#">き</a></td>
+    <td align="center"><a href="#">く</a></td>
+    <td align="center"><a href="#">け</a></td>
+    <td align="center"><a href="#">こ</a></td>
+  </tr>
 </table>	  
 	  
 | :----:|:----: | :----: |
