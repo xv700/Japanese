@@ -60,11 +60,55 @@
   </tr>
   <tr>
     <td align="center">H</td>
+    <td align="center"><a href="#">は</a></td>
+    <td align="center"><a href="#">み</a></td>
+    <td align="center"><a href="#">む</a></td>
+    <td align="center"><a href="#">め</a></td>
+    <td align="center"><a href="#">も</a></td>
+  </tr>
+  <tr>
+    <td align="center">M</td>
     <td align="center"><a href="#">ま</a></td>
     <td align="center"><a href="#">み</a></td>
     <td align="center"><a href="#">む</a></td>
     <td align="center"><a href="#">め</a></td>
     <td align="center"><a href="#">も</a></td>
+  </tr>
+  <tr>
+    <td align="center">Y</td>
+    <td align="center"><a href="#">や</a></td>
+    <td align="center"><a href="#">い</a></td>
+    <td align="center"><a href="#">ゆ</a></td>
+    <td align="center"><a href="#">え</a></td>
+    <td align="center"><a href="#">よ</a></td>
+  </tr>
+  <tr>
+    <td align="center">R</td>
+    <td align="center"><a href="#">ら</a></td>
+    <td align="center"><a href="#">り</a></td>
+    <td align="center"><a href="#">る</a></td>
+    <td align="center"><a href="#">れ</a></td>
+    <td align="center"><a href="#">ろ</a></td>
+  </tr>
+  <tr>
+    <td align="center">W</td>
+    <td align="center"><a href="#">わ</a></td>
+    <td align="center"><a href="#">い</a></td>
+    <td align="center"><a href="#">う</a></td>
+    <td align="center"><a href="#">え</a></td>
+    <td align="center"><a href="#">を</a></td>
+  </tr>
+  <tr>
+    <td align="center">N</td>
+    <td align="center"><a href="#">ん</a></td>
+    <td align="center">
+    </td>
+    <td align="center">
+    </td>
+    <td align="center">
+    </td>
+    <td align="center">
+    </td>
   </tr>
 </table>	  
 	  
