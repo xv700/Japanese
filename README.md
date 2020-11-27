@@ -112,33 +112,29 @@
   </tr>
 </table>	  
 	  
-| :----:|:----: | :----: |
-|   | a | i | u | e | o |
 
-|   | あ | い | う | え | お |
-| 单元格 | 单元格 | 单元格 |
-	a	i	u	e	o
+<table>
+  <tr>
+    <td align="center"> </td>
+    <td align="center"><a href="#">a</a></td>
+    <td align="center"><a href="#">i</a></td>
+    <td align="center"><a href="#">u</a></td>
+    <td align="center"><a href="#">e</a></td>
+    <td align="center"><a href="#">o</a></td>
+  </tr>
+  <tr>
+    <td align="center">G</td>
+    <td align="center"><a href="#">が ガ</a></td>
+    <td align="center"><a href="#">ぎ ギ</a></td>
+    <td align="center"><a href="#">ぐ グ</a></td>
+    <td align="center"><a href="#">げ ゲ</a></td>
+    <td align="center"><a href="#">ご ゴ</a></td>
+  </tr>
+</table>  
+  g    が  ガ
+
+
 	
-あ	い	う	え	お
-
-K	か	き	く	け	こ
-
-S	さ	し	す	せ	そ
-
-T	た	ち	つ	て	と
-
-N	な　	に　	ぬ　	ね　	の
-
-H	は　	ひ　	ふ　	へ	ほ
-
-M	ま	み	む　	め　	も
-
-Y	や	い	ゆ	え	よ
-
-R	ら	り	る	れ	ろ
-
-W	わ	い	う	え	を
-
-N	ん	
-
 https://github.com/kidynecat/KanaSyllabaryMemory
+
+https://zhuanlan.zhihu.com/p/24500513
