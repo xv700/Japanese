@@ -1,4 +1,4 @@
-# Japanese
+﻿# Japanese
 
 <table>
   <tr>
@@ -14,7 +14,7 @@
     <td align="center"> </td>
     <td align="center"><a href="#">あ</a></td>
     <td align="center"><a href="#">い</a></td>
-    <td align="center"><a href="#">う</a></td>
+    <td align="center"><a href="#">う ウ</a></td>
     <td align="center"><a href="#">え</a></td>
     <td align="center"><a href="#">お</a></td>
   </tr>
@@ -57,14 +57,6 @@
     <td align="center"><a href="#">ふ</a></td>
     <td align="center"><a href="#">へ</a></td>
     <td align="center"><a href="#">ほ</a></td>
-  </tr>
-  <tr>
-    <td align="center">H</td>
-    <td align="center"><a href="#">は</a></td>
-    <td align="center"><a href="#">み</a></td>
-    <td align="center"><a href="#">む</a></td>
-    <td align="center"><a href="#">め</a></td>
-    <td align="center"><a href="#">も</a></td>
   </tr>
   <tr>
     <td align="center">M</td>
@@ -130,11 +122,28 @@
     <td align="center"><a href="#">げ ゲ</a></td>
     <td align="center"><a href="#">ご ゴ</a></td>
   </tr>
+  <tr>
+    <td align="center">Z</td>
+    <td align="center"><a href="#">ざ ザ</a></td>
+    <td align="center"><a href="#">じ ジ</a></td>
+    <td align="center"><a href="#">ず ズ</a></td>
+    <td align="center"><a href="#">ぜ ゼ</a></td>
+    <td align="center"><a href="#">ぞ ゾ</a></td>
+  </tr>
 </table>  
-  g    が  ガ
-
-
 	
 https://github.com/kidynecat/KanaSyllabaryMemory
 
 https://zhuanlan.zhihu.com/p/24500513
+
+苍井空（日文名：蒼井そら，平假名：あおい そら，罗马拼音：aoi sora，英文名：Aoi sola） 
+
+小泽圆（日文名：小沢まどか，英文名：Madoka Ozawa ）   
+
+松岛风，小泽玛利亚，波多野结衣，花野真衣，黑木明沙，吉呎明步，北川景子，泷泽萝拉
+
+
+はじ
+初めまして，どうぞよろしく
+
+初次见面，请多关照
