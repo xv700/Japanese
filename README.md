@@ -161,12 +161,12 @@
 <table>
 
   <tr>
-    <td align="center">せんせい（先生）</td>
-    <td align="center">〔名〕 老师</td>
+    <td >せんせい（先生）</td>
+    <td >〔名〕 老师</td>
   </tr>
   <tr>
     <td align="center">こんにちは</td>
-    <td align="center">你好</td>
+    <td align="left">你好</td>
   </tr>
   <tr>
     <td align="center">すみません</td>
