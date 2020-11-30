@@ -166,7 +166,7 @@
     <td align="center"><a href="#">o</a></td>
   </tr>
   <tr>
-    <td align="center">ky</td>
+    <td align="center">KY</td>
     <td align="center"><a href="#">きゃ キャ</a></td>
     <td align="center"><a href="#">きゅ キュ</a></td>
     <td align="center"><a href="#">きょ キョ</a></td>
