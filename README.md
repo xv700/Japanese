@@ -1,6 +1,6 @@
 ﻿# Japanese
 
-##清音  
+## 清音  
 <table>
   <tr>
     <td align="center"> </td>
@@ -154,8 +154,6 @@
     <td align="center"><a href="#">ぺ ペ</a></td>
     <td align="center"><a href="#">ぽ ポ</a></td>
   </tr>
-
-
 </table>  
 	
 https://github.com/kidynecat/KanaSyllabaryMemory
