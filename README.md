@@ -156,16 +156,55 @@
   </tr>
 </table>  
 	
-https://github.com/kidynecat/KanaSyllabaryMemory
+## 辅助掌握词汇以帮助记忆5五十音
+### 辅助清音
+<table>
 
-https://zhuanlan.zhihu.com/p/24500513
+  <tr>
+    <td align="center">せんせい（先生）</td>
+    <td align="center">〔名〕 老师</td>
+  </tr>
+  <tr>
+    <td align="center">こんにちは</td>
+    <td align="center">你好</td>
+  </tr>
+  <tr>
+    <td align="center">すみません</td>
+    <td align="center">对不起，请问(相当于Excuse me)</td>
+  </tr>
+  <tr>
+    <td align="center">はい</td>
+    <td align="center">〔叹〕 哎，是（应答）；是的</td>
+  </tr>
+  <tr>
+    <td align="center">いいえ</td>
+    <td align="center">〔叹〕 不，不是</td>
+  </tr>
+  <tr>
+    <td align="center">おはよう</td>
+    <td align="center">早上好</td>
+  </tr>
 
-苍井空（日文名：蒼井そら，平假名：あおい そら，罗马拼音：aoi sora，英文名：Aoi sola） 
+</table>
 
-小泽圆（日文名：小沢まどか，英文名：Madoka Ozawa ）   
-
-松岛风，小泽玛利亚，波多野结衣，花野真衣，黑木明沙，吉呎明步，北川景子，泷泽萝拉
-
+<table>
+  <tr>
+    <td align="center">ちゅうごくじん （中国人） </td>
+    <td align="center">〔名〕 中国人</td>
+  </tr>
+  <tr>
+    <td align="center">にほんじん（日本人）</td>
+    <td align="center">〔名〕 日本人</td>
+  </tr>
+  <tr>
+    <td align="center">かんこくじん（韓国人）</td>
+    <td align="center">〔名〕 韩国人</td>
+  </tr>
+  <tr>
+    <td align="center">がくせい（学生）</td>
+    <td align="center">〔名 （大）学生</td>
+  </tr>
+</table> 
 
 
 大家的日语
@@ -173,3 +212,13 @@ https://zhuanlan.zhihu.com/p/24500513
 初めまして，どうぞよろしく
 
 初次见面，请多关照
+
+苍井空（日文名：蒼井そら，平假名：あおいそら，罗马拼音：aoi sora，英文名：Aoi sola）  
+
+波多野结衣 (平假名：はたのゆい)
+
+泷泽萝拉
+
+https://github.com/kidynecat/KanaSyllabaryMemory
+
+https://zhuanlan.zhihu.com/p/24500513
