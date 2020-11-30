@@ -104,7 +104,7 @@
     </td>
   </tr>
 </table>	  
-
+### 浊音
 <table>
   <tr>
     <td align="center"> </td>
@@ -156,7 +156,18 @@
   </tr>
 </table>  
 	
-## 辅助掌握词汇以帮助记忆5五十音
+### 拗音
+<table>
+  <tr>
+    <td align="center">ky</td>
+    <td align="center"><a href="#">きゃ キャ</a>kya</td>
+    <td align="center"><a href="#">きゅ キュ</a>kyu</td>
+    <td align="center"><a href="#">きょ キョ</a>kyo</td>
+  </tr>
+</table> 
+
+## 辅助掌握词汇以帮助记忆5五十音  
+
 ### 辅助清音
 <table>
 
@@ -186,6 +197,7 @@
   </tr>
 
 </table>
+
 
 <table>
   <tr>
