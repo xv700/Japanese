@@ -103,7 +103,6 @@
     </td>
   </tr>
 </table>	  
-	  
 
 <table>
   <tr>
@@ -130,6 +129,32 @@
     <td align="center"><a href="#">ぜ ゼ</a></td>
     <td align="center"><a href="#">ぞ ゾ</a></td>
   </tr>
+  <tr>
+    <td align="center">D</td>
+    <td align="center"><a href="#">だ ダ</a></td>
+    <td align="center"><a href="#">ぢ ヂ</a></td>
+    <td align="center"><a href="#">づ ヅ</a></td>
+    <td align="center"><a href="#">で デ</a></td>
+    <td align="center"><a href="#">ど ド</a></td>
+  </tr>
+  <tr>
+    <td align="center">B</td>
+    <td align="center"><a href="#">ば バ</a></td>
+    <td align="center"><a href="#">び ビ</a></td>
+    <td align="center"><a href="#">ぶ ブ</a></td>
+    <td align="center"><a href="#">べ ベ</a></td>
+    <td align="center"><a href="#">ぼ ボ</a></td>
+  </tr>
+  <tr>
+    <td align="center">P</td>
+    <td align="center"><a href="#">ぱパ</a></td>
+    <td align="center"><a href="#">ぴ ピ</a></td>
+    <td align="center"><a href="#">ぷ プ</a></td>
+    <td align="center"><a href="#">ぺ ペ</a></td>
+    <td align="center"><a href="#">ぽ ポ</a></td>
+  </tr>
+
+
 </table>  
 	
 https://github.com/kidynecat/KanaSyllabaryMemory
