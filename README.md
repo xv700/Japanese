@@ -208,20 +208,20 @@
 
 <table>
   <tr>
-    <td align="center">ちゅうごくじん （中国人） </td>
-    <td align="center">〔名〕 中国人</td>
+    <td>ちゅうごくじん （中国人） </td>
+    <td>〔名〕 中国人</td>
   </tr>
   <tr>
-    <td align="center">にほんじん（日本人）</td>
-    <td align="center">〔名〕 日本人</td>
+    <td>にほんじん（日本人）</td>
+    <td>〔名〕 日本人</td>
   </tr>
   <tr>
-    <td align="center">かんこくじん（韓国人）</td>
-    <td align="center">〔名〕 韩国人</td>
+    <td>かんこくじん（韓国人）</td>
+    <td>〔名〕 韩国人</td>
   </tr>
   <tr>
-    <td align="center">がくせい（学生）</td>
-    <td align="center">〔名 （大）学生</td>
+    <td>がくせい（学生）</td>
+    <td>〔名 （大）学生</td>
   </tr>
 </table> 
 
