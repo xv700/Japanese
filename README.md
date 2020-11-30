@@ -9,7 +9,6 @@
     <td align="center"><a href="#">u</a></td>
     <td align="center"><a href="#">e</a></td>
     <td align="center"><a href="#">o</a></td>
-
   </tr>
    <tr>
     <td align="center"> </td>
@@ -159,10 +158,16 @@
 ### 拗音
 <table>
   <tr>
+    <td align="center"> </td>
+    <td align="center"><a href="#">a</a></td>
+    <td align="center"><a href="#">u</a></td>
+    <td align="center"><a href="#">o</a></td>
+  </tr>
+  <tr>
     <td align="center">ky</td>
-    <td align="center"><a href="#">きゃ キャ</a>kya</td>
-    <td align="center"><a href="#">きゅ キュ</a>kyu</td>
-    <td align="center"><a href="#">きょ キョ</a>kyo</td>
+    <td align="center"><a href="#">きゃ キャ</a></td>
+    <td align="center"><a href="#">きゅ キュ</a></td>
+    <td align="center"><a href="#">きょ キョ</a></td>
   </tr>
 </table> 
 
