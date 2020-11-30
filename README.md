@@ -170,7 +170,7 @@
   </tr>
   <tr>
     <td>すみません</td>
-    <td>对不起，请问(相当于Excuse me)</td>
+    <td>对不起，请问(可以当Excuse me用)</td>
   </tr>
   <tr>
     <td>はい</td>
