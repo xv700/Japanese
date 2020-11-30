@@ -171,6 +171,12 @@
     <td align="center"><a href="#">きゅ キュ</a></td>
     <td align="center"><a href="#">きょ キョ</a></td>
   </tr>
+  <tr>
+    <td align="center">SH</td>
+    <td align="center"><a href="#">しゃ シャ</a></td>
+    <td align="center"><a href="#">しゅ シュ</a></td>
+    <td align="center"><a href="#">しょ ショ</a></td>
+  </tr>
 </table> 
 
 ## 辅助掌握词汇以帮助记忆5五十音  
