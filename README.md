@@ -1,5 +1,6 @@
 ﻿# Japanese
 
+##清音  
 <table>
   <tr>
     <td align="center"> </td>
@@ -69,9 +70,9 @@
   <tr>
     <td align="center">Y</td>
     <td align="center"><a href="#">や</a></td>
-    <td align="center"><a href="#">い</a></td>
+    <td align="center"></td>
     <td align="center"><a href="#">ゆ</a></td>
-    <td align="center"><a href="#">え</a></td>
+    <td align="center"></td>
     <td align="center"><a href="#">よ</a></td>
   </tr>
   <tr>
@@ -85,9 +86,9 @@
   <tr>
     <td align="center">W</td>
     <td align="center"><a href="#">わ</a></td>
-    <td align="center"><a href="#">い</a></td>
-    <td align="center"><a href="#">う</a></td>
-    <td align="center"><a href="#">え</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"><a href="#">を</a></td>
   </tr>
   <tr>
