@@ -102,8 +102,10 @@
     <td align="center">
     </td>
   </tr>
-</table>	  
+</table>	
+
 ### 浊音
+
 <table>
   <tr>
     <td align="center"> </td>
