@@ -165,24 +165,24 @@
     <td >〔名〕 老师</td>
   </tr>
   <tr>
-    <td align="center">こんにちは</td>
-    <td align="left">你好</td>
+    <td>こんにちは</td>
+    <td>你好</td>
   </tr>
   <tr>
-    <td align="center">すみません</td>
-    <td align="center">对不起，请问(相当于Excuse me)</td>
+    <td>すみません</td>
+    <td>对不起，请问(相当于Excuse me)</td>
   </tr>
   <tr>
-    <td align="center">はい</td>
-    <td align="center">〔叹〕 哎，是（应答）；是的</td>
+    <td>はい</td>
+    <td>〔叹〕 哎，是（应答）；是的</td>
   </tr>
   <tr>
-    <td align="center">いいえ</td>
-    <td align="center">〔叹〕 不，不是</td>
+    <td>いいえ</td>
+    <td>〔叹〕 不，不是</td>
   </tr>
   <tr>
-    <td align="center">おはよう</td>
-    <td align="center">早上好</td>
+    <td>おはよう</td>
+    <td>早上好</td>
   </tr>
 
 </table>
