@@ -243,6 +243,23 @@
     <td >〔名〕 老师</td>
   </tr>
   <tr>
+    <td >ちち（父）</td>
+    <td >〔名〕 （我）父亲</td>
+  </tr>
+   <tr>
+    <td >ちち（父）</td>
+    <td >〔名〕 （我）父亲</td>
+  </tr>  
+  <tr>
+    <td >わたし</td>
+    <td >〔代〕 我</td>
+  </tr>  
+   <tr>
+    <td >あなた</td>
+    <td >〔代〕 你</td>
+  </tr> 
+
+  <tr>
     <td>こんにちは</td>
     <td>你好</td>
   </tr>
@@ -289,9 +306,11 @@
 </table> 
 
 
-大家的日语
-はじ
-初めまして，どうぞよろしく
+<img src="50.jpg" width="300">
+
+大家的日语 
+はじ  
+初めまして，どうぞよろしく  
 
 初次见面，请多关照
 
@@ -299,8 +318,10 @@
 
 波多野结衣 (平假名：はたのゆい)
 
-泷泽萝拉
+
 
 https://github.com/kidynecat/KanaSyllabaryMemory
 
 https://zhuanlan.zhihu.com/p/24500513
+
+http://jp.tingroom.com/tingli/biaozhunriyu/4.html
