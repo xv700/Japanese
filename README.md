@@ -177,9 +177,63 @@
     <td align="center"><a href="#">しゅ シュ</a></td>
     <td align="center"><a href="#">しょ ショ</a></td>
   </tr>
+  <tr>
+    <td align="center">CH</td>
+    <td align="center"><a href="#">ちゃ チャ</a></td>
+    <td align="center"><a href="#">ちゅ チュ</a></td>
+    <td align="center"><a href="#">ちょ チョ</a></td>
+  </tr>
+  <tr>
+    <td align="center">NY</td>
+    <td align="center"><a href="#">にゃ ニャ</a></td>
+    <td align="center"><a href="#">にゅ ニュ</a></td>
+    <td align="center"><a href="#">にょ ニョ</a></td>
+  </tr>
+  <tr>
+    <td align="center">HY</td>
+    <td align="center"><a href="#">ひゃ ヒャ</a></td>
+    <td align="center"><a href="#">ひゅ ヒョ</a></td>
+    <td align="center"><a href="#">ひょ ヒョ</a></td>
+  </tr>
+  <tr>
+    <td align="center">MY</td>
+    <td align="center"><a href="#">みゃ ミャ</a></td>
+    <td align="center"><a href="#">みゅ ミュ</a></td>
+    <td align="center"><a href="#">みょ ミョ</a></td>
+  </tr>
+  <tr>
+    <td align="center">RY</td>
+    <td align="center"><a href="#">りゃ リャ</a></td>
+    <td align="center"><a href="#">りゅ リュ</a></td>
+    <td align="center"><a href="#">りょ リョ</a></td>
+  </tr>
+  <tr>
+    <td align="center">GY</td>
+    <td align="center"><a href="#">ぎゃ ギャ</a></td>
+    <td align="center"><a href="#">ぎゅ ギュ</a></td>
+    <td align="center"><a href="#">ぎょ ギョ</a></td>
+  </tr>
+  <tr>
+    <td align="center">J</td>
+    <td align="center"><a href="#">じゃ ジャ</a></td>
+    <td align="center"><a href="#">じゅ ジュ</a></td>
+    <td align="center"><a href="#">じょ ジョ</a></td>
+  </tr>
+  <tr>
+    <td align="center">BY</td>
+    <td align="center"><a href="#">びゃ ビャ</a></td>
+    <td align="center"><a href="#">びゅ ビュ</a></td>
+    <td align="center"><a href="#">ぎょ ギョ</a></td>
+  </tr>
+  <tr>
+    <td align="center">PY</td>
+    <td align="center"><a href="#">ぴゃ ピャ</a></td>
+    <td align="center"><a href="#">ぴゅ ピュ</a></td>
+    <td align="center"><a href="#">ぴょ ピョ</a></td>
+  </tr>
 </table> 
 
-## 辅助掌握词汇以帮助记忆5五十音  
+## 辅助掌握词汇以帮助记忆五十音  
 
 ### 清音组成的词语
 <table>
@@ -208,7 +262,10 @@
     <td>おはよう</td>
     <td>早上好</td>
   </tr>
-
+  <tr>
+    <td>そら</td>
+    <td>空</td>
+  </tr>
 </table>
 
 
