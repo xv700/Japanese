@@ -12,11 +12,11 @@
   </tr>
    <tr>
     <td align="center"> </td>
-    <td align="center"><a href="#">あ</a></td>
-    <td align="center"><a href="#">い</a></td>
+    <td align="center"><a href="#">あ ア</a></td>
+    <td align="center"><a href="#">い イ</a></td>
     <td align="center"><a href="#">う ウ</a></td>
-    <td align="center"><a href="#">え</a></td>
-    <td align="center"><a href="#">お</a></td>
+    <td align="center"><a href="#">え エ</a></td>
+    <td align="center"><a href="#">お オ</a></td>
   </tr>
   <tr>
     <td align="center">K</td>
